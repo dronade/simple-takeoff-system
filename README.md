@@ -1,2 +1,2 @@
 # simple-takeoff-system
-a simple aircarft takeoff system in spark ada
+a simple aircraft take-off system in spark ada
