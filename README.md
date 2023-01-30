@@ -38,4 +38,6 @@ forwards
 ## An Example run of the program
 Displaying takeoff status changing from grounded to airbourne
 
-![Example Run](takeoff-demo.JPG)
+
+<p align="center" width="100%"><img src="takeoff-demo.JPG" width="75%"></p>
+
