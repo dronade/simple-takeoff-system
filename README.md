@@ -39,5 +39,5 @@ forwards
 Displaying takeoff status changing from grounded to airbourne
 
 
-<p align="center" width="100%"><img src="takeoff-demo.JPG" width="75%"></p>
+<p><img src="takeoff-demo.JPG" width="35%"></p>
 
